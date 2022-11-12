@@ -1,2 +1,6 @@
 <img src ="https://img.shields.io/badge/-EDA-informational">
-# eCommerce EDA project
+## eCommerce EDA project
+
+### cohort analysis
+
+### Action plan
